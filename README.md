@@ -9,6 +9,7 @@ A runnable MVP for discovering, submitting, validating, and governing AI use cas
 - Mock AI idea shaping and similar-idea detection
 - Searchable public use-case library
 - Restricted project workspace with evidence, risks, and decisions
+- Manager review queue with feedback, approve/request-changes decisions, and AI-assisted exploration
 - Leadership dashboard with portfolio value and decision queue
 - Responsive desktop and mobile layouts
 - `AIService` adapter ready for a server-side real AI implementation
