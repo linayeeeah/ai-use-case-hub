@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AI Use Case Hub",
+  title: "AI Use Case Hub 2.0",
   description: "Discover, submit, validate, and govern AI use cases across the organization.",
   icons: {
     icon: "/favicon.svg",
