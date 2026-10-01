@@ -44,6 +44,7 @@
     "examples",
     "build",
     "scripts",
-    "db"
+    "db",
+    "drizzle.config.ts"
   ]
 }
